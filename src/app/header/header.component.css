@@ -1,0 +1,19 @@
+
+
+/* Dans votre fichier CSS */
+.search-bar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-bar input {
+    width: 300px;
+    padding: 5px;
+    border-radius: 25px;
+    margin-right: 10px;
+    background-color: white;
+    border: 1px solid black; 
+  }
+  
+ 
+  
